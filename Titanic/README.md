@@ -11,10 +11,4 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 ### Citation
-@misc{titanic,
-    author = {Will Cukierski},
-    title = {Titanic - Machine Learning from Disaster},
-    year = {2012},
-    howpublished = {\url{https://kaggle.com/competitions/titanic}},
-    note = {Kaggle}
-}
+Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
